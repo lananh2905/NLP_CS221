@@ -2,12 +2,12 @@ gensim==4.3.2
 numpy==1.24.3
 pandas==2.0.3
 scikit_learn==1.3.2
-scipy
+scipy==1.11.4
 underthesea==6.8.0
-keras
+keras==2.15.0
 streamlit==1.28.2
 streamlit-option-menu==0.3.6
-tensorflow
-plotly
-bs4
+tensorflow==2.15.0
+plotly==5.9.0
+bs4==0.0.2
 matplotlib
