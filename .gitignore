@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+sa_nlp/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Log files
+*.log
+
+# Data files (tuỳ chọn, nếu bạn có file tạm)
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# Model files (tuỳ chọn)
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# IDE files
+.idea/
+
+# Python egg files
+*.egg-info/
+dist/
+build/
+
+# Test output
+htmlcov/
+coverage.xml
+.cache/
+
+# PyInstaller
+*.spec
